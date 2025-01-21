@@ -4,7 +4,7 @@ Years of achieving sales targets taught me the value of understanding customer b
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lagarda-espinosa/) 
 ## Skills:
-![Skills](https://img.shields.io/badge/Python%2C%20SQL%2C%20Tableu%2C%20Statistical%20Analysis%2C%20Data%20Wrangling-black?style=for-the-badge
+![Skills](https://img.shields.io/badge/PYTHON%2C%20SQL%2C%20JSON%2CTABLEU%2C%20STATISTICAL%20ANALYSIS%2C%20DATA%20WRANGLING-black?style=for-the-badge
 )</br>
 
 
