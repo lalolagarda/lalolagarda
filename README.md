@@ -8,7 +8,7 @@ Years of achieving sales targets taught me the value of understanding customer b
 )</br>
 
 
- ### :fire: Mis estadísticas :
+ ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
