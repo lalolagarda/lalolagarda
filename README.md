@@ -1,3 +1,5 @@
+[![](https://blog.soyhenry.com/content/images/size/w2000/2024/11/HENRRSS_DATA-ANALYTICS3-2.png) 
+
 ## Hi there my name is Eduardo Lagarda 😄
 Years of achieving sales targets taught me the value of understanding customer behavior and market trends—skills I’m now leveraging in my data analysis career. Through dedicated training, I’ve mastered tools like SQL, Python, Tableau, allowing me to extract meaningful insights from data and translate them into actionable recommendations. I'm seeking a role where I can use my data analysis skills to contribute to strategic business decisions.
 
